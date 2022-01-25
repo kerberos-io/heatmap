@@ -1,3 +1,14 @@
-# heatmap
-Creating a heatmap based on a recording with moving objects. A person gets recognized and a bounding box is placed around him. A line is drown everywhere that person walked.
-This project is still under development.
+# Heatmap
+
+## Description 
+Using video recordings from a paddel playingfield we are trying to map the locations players have walked.
+
+## Instalation 
+|python 3.8|
+|OpenCV|
+|datetime|
+|numpy|
+|collections - Defaultdict|
+|pandas|
+|imutils|
+
