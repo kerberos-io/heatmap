@@ -1,7 +1,7 @@
 # Heatmap
 
 ## Description 
-Using video recordings from a paddel playingfield we are trying to map the locations players have walked.
+Using video recordings from a paddel playingfield we are trying to map the locations players have walked. First we capture there movement and later on we convert the coordinates and plot them onto an image of the playingfield. This will give us insight in where people mostly walk and what areas are left unattended.
 
 ## Packages  
 | Packages|
