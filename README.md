@@ -2,8 +2,8 @@
 
 ## Description 
 Using video recordings from a paddel playingfield we are trying to map the locations players have walked. First we capture there movement and later on we convert the coordinates and plot them onto an image of the playingfield. This will give us insight in where people mostly walk and what areas are left unattended.
-<img src="media/tracker.png" >
-<img src="media/paddelfield_2d_points.jpeg" >
+<img src="media/tracker.png" > <img src="media/paddelfield_2d_points.jpeg" >
+
 
 
 ## Packages  
