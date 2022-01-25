@@ -10,7 +10,7 @@ Heatmaps are produced by processing one or more recordings of a static scene, an
 
 Heatmapping is a post-process, which means that before you can create any heatmap you will need a pipeline of recordings or images. Heatmaps are generated over time and can bring huge value, they provide insights of a specific scene at a specific time (a retail store is more crowdy when having discounts).
 
-Creating this pipeline or continuous flow of data can be challenging to develop. You might need to scale over multiple scenes (stores, fields, etc) and multiple cameras in a scene can be installed. To solve this, and this beyond this repository, we will use the [Kerberos Enterprise Suite stack](https://doc.kerberos.io/enterprise/first-things-first/). This stack will allow us to easily onboard and scale video cameras, and attach them to a video pipeline, so we will get new recordings served as soon they become available.
+Creating this pipeline or continuous flow of data can be challenging to develop. You might need to scale over multiple scenes (stores, fields, etc) and multiple cameras in a scene can be installed. To solve this, and this goes beyond this repository, we will use the [Kerberos Enterprise Suite stack](https://doc.kerberos.io/enterprise/first-things-first/). This stack will allow us to easily onboard and scale video cameras, and attach them to a video pipeline, so we will get new recordings served as soon they become available. Bottom line Kerberos Enterprise will help us to focus on our usecase and not the complexity of scale and onboarding IP cameras.
 
 Easily explained, this is what the project is doing.
 
