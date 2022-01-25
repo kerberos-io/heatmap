@@ -4,11 +4,11 @@ This repository implements the concept of a heatmap, which highlights the occure
 
 > A heatmap is a graphical representation of data that uses a system of color-coding to represent different values. 
 
-These heatmaps are being produced by processing one or more recordings of a static place, and tracking an object of interests. As illustrated before, scenes and objects are of your own choice.
+Heatmaps are produced by processing one or more recordings of a static scene, and tracking one or more object of interests. As illustrated before, scenes and objects are of your own interest and will vary from usecase to usecase.
 
 ## The implementation
 
-Heatmapping is a post-process, which means that before you can create any heatmap you will need a pipeline of recordings or images. Heatmaps are generated over time and can bring huge value, and create insights of a specific scene at a specific time (a retail store is more crowdy when having discounts).
+Heatmapping is a post-process, which means that before you can create any heatmap you will need a pipeline of recordings or images. Heatmaps are generated over time and can bring huge value, they provide insights of a specific scene at a specific time (a retail store is more crowdy when having discounts).
 
 Creating this pipeline or continuous flow of data can be challenging to develop. You might need to scale over multiple scenes (stores, fields, etc) and multiple cameras in a scene can be installed. To solve this, and this beyond this repository, we will use the [Kerberos Enterprise Suite stack](https://doc.kerberos.io/enterprise/first-things-first/). This stack will allow us to easily onboard and scale video cameras, and attach them to a video pipeline, so we will get new recordings served as soon they become available.
 
