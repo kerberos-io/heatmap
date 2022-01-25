@@ -2,6 +2,8 @@
 
 This repository implements the concept of a heatmap for video recordings, which highlights the occurences of objects of interests that are moving in a static scene. A scene can be a sportfield, a public place, a shop, a factory or any physical place in this world. Objects can be persons, cars, boxes in a factory, players on a field, or anything else that create differences in a static scene.
 
+<img width="851" alt="Screenshot 2022-01-25 at 22 04 12" src="https://user-images.githubusercontent.com/1546779/151059451-1ac20282-592e-40f0-8f8f-96346cceae5c.png">
+
 > A heatmap is a graphical representation of data that uses a system of color-coding to represent different values. 
 
 Heatmaps are produced by processing one or more recordings of a static scene, and tracking one or more object of interests. As illustrated before, scenes and objects are of your own interest and will vary from usecase to usecase.
