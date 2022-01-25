@@ -1,6 +1,6 @@
 # Heatmap
 
-This repository implements the concept of a heatmap, which highlights the occurences of objects of interests which are moving in a static scene. A scene can be a sportfield, a public place, a shop, a factory or any physical place in this world. Objects can be persons, cars, boxes in a factory, players on a field, or anything else that create differences in a static scene.
+This repository implements the concept of a heatmap for video recordings, which highlights the occurences of objects of interests which are moving in a static scene. A scene can be a sportfield, a public place, a shop, a factory or any physical place in this world. Objects can be persons, cars, boxes in a factory, players on a field, or anything else that create differences in a static scene.
 
 > A heatmap is a graphical representation of data that uses a system of color-coding to represent different values. 
 
